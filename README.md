@@ -13,9 +13,9 @@
 **Tech**
 
 ```
-Languages     Python  ·  Java  ·  TypeScript  ·  C++
+Languages     Python  ·  Java  ·  TypeScript  ·  C#
 AI / ML       LangChain  ·  PyTorch  ·  HuggingFace  ·  Ollama  ·  ChromaDB
-Backend       FastAPI  ·  Spring Boot  ·  Node.js  ·  GraphQL
+Backend       FastAPI  ·  Spring Boot  ·  Node.js  ·  GraphQL · ASP.NET 
 Frontend      React  ·  React Native  ·  Next.js
 Infra         Docker  ·  AWS  ·  PostgreSQL  ·  Redis
 ```

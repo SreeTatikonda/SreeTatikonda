@@ -1,54 +1,65 @@
-# Hi, I'm Yasaswini Tatikonda 👋
+<div align="center">
 
-### AI Engineer | Software Engineer
+# Yasaswini Tatikonda
 
-I build intelligent software systems at the intersection of **LLMs, backend engineering, retrieval systems, and applied machine learning**.
+**AI Engineer · LLM Systems · RAG Pipelines · Backend Infrastructure**
 
-Interested in designing systems that are **measurable, reliable, and useful beyond prototypes**.
+I build AI systems that hold up when real users hit them — at scale, under constraints, with measurable outcomes.  
+My focus is retrieval, language models, and the backend infrastructure that makes them reliable at scale.
 
----
+[
+[
+[
+[
 
-## Current Focus
 
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI systems and orchestration
-- Intelligent backend systems
-- Search, ranking, and recommendation
-- Distributed systems and scalable architectures
-- Model evaluation and observability
 
----
+</div>
+
+***
+
+## What I Build
+
+- 🔷 Designed a **RAG pipeline** that achieved **98% grounded responses** across thousands of real queries — built with LangChain, Pinecone, and ChromaDB
+- 🔷 Engineered a **multi-engine document parsing system** handling **50,000+ daily requests** with fault-tolerant OCR across two providers
+- 🔷 Fine-tuned **GPT models on domain-specific corpora** for structured schema standardization — reduced manual correction overhead significantly
+- 🔷 Built a **semantic recommendation engine** that cut attribute mismatch errors by aligning product embeddings with user intent signals
+- 🔷 Developed an **AI tutoring application** with instructor-aligned retrieval and local LLM inference using Llama and FastAPI
+
+***
+
+## Featured Projects
+
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| **RAG Pipeline** | Retrieval system with 98% grounded responses across live queries | LangChain · Pinecone · FastAPI | [→ Repo](#) |
+| **Document Parsing Engine** | Processes 50K+ daily document requests with multi-engine OCR fallback | Python · Azure OCR · NLP | [→ Repo](#) |
+| **AI Tutor App** | Instructor-aligned retrieval using local LLMs with low-latency response | Llama · FastAPI · ChromaDB | [→ Repo](#) |
+
+> Replace `[→ Repo](#)` links with actual repo URLs
+
+***
 
 ## Technical Stack
 
 ```text
-Languages        Python · Java · TypeScript · C#
-AI / ML          PyTorch · Hugging Face · LangChain · Ollama · ChromaDB
+Languages        Python · Java · TypeScript · C# · Go
+AI / ML          PyTorch · Hugging Face · LangChain · Ollama · ChromaDB · Pinecone
 Backend          FastAPI · ASP.NET · Spring Boot · GraphQL · REST APIs
 Frontend         React · Next.js · React Native
 Infrastructure   Docker · AWS · PostgreSQL · Redis · GitHub Actions
 ```
 
----
+***
 
-## Engineering Mindset
+## What's Next on My Workbench
 
-I care about building systems that are:
+- Multi-agent orchestration with LangGraph — moving beyond single-chain pipelines
+- LoRA / PEFT fine-tuning for low-resource domain adaptation
+- RAG evaluation frameworks — measuring retrieval quality, not just output fluency
+- High-throughput service design in Go
 
-- Reliable under real-world constraints  
-- Measurable instead of assumed  
-- Maintainable over clever  
-- Designed with strong software fundamentals  
-- Useful beyond prototypes  
-
----
-
-## Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
+***
 
 ## Contribution Graph
 
@@ -58,7 +69,7 @@ I care about building systems that are:
   <img alt="contribution graph" src="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
----
+***
 
 ## GitHub Metrics
 
@@ -75,23 +86,3 @@ I care about building systems that are:
 <img src="https://github-profile-trophy.vercel.app/?username=SreeTatikonda&theme=flat&no-frame=true&row=1&column=6"/>
 
 </div>
-
----
-
-## Writing
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
-**Find me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tatikondayasaswini/])
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)]((https://medium.com/@yasaswinitatikonda1))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([https://yasaswinitatikonda.netlify.app/])
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasaswinitatikonda1@gmail.com)
-[![Google](https://img.shields.io/badge/Google%20Me-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.google.com/search?q=Yasaswini_Tatikonda)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SreeTatikonda.SreeTatikonda&left_color=black&right_color=grey&left_text=visitors)

@@ -1,50 +1,90 @@
-### Hi, I'm Yasaswini 👋
+# Hi, I'm Yasaswini Tatikonda 👋
+
+### AI Engineer | Software Engineer
+
+I build intelligent software systems at the intersection of **LLMs, backend engineering, retrieval systems, and applied machine learning**.
+
+Interested in designing systems that are **measurable, reliable, and useful beyond prototypes**.
 
 ---
 
-**About me**
+## Current Focus
 
--  Masters in Computer Science @ Iowa State University
--  Building LLM-powered applications
--  Open to AI/ML Engineer & Software Engineer roles
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI systems and orchestration
+- Intelligent backend systems
+- Search, ranking, and recommendation
+- Distributed systems and scalable architectures
+- Model evaluation and observability
 
 ---
 
-**Tech**
+## Technical Stack
 
+```text
+Languages        Python · Java · TypeScript · C#
+AI / ML          PyTorch · Hugging Face · LangChain · Ollama · ChromaDB
+Backend          FastAPI · ASP.NET · Spring Boot · GraphQL · REST APIs
+Frontend         React · Next.js · React Native
+Infrastructure   Docker · AWS · PostgreSQL · Redis · GitHub Actions
 ```
-Languages     Python  ·  Java  ·  TypeScript  ·  C#
-AI / ML       LangChain  ·  PyTorch  ·  HuggingFace  ·  Ollama  ·  ChromaDB
-Backend       FastAPI  ·  Spring Boot  ·  Node.js  ·  GraphQL · ASP.NET 
-Frontend      React  ·  React Native  ·  Next.js
-Infra         Docker  ·  AWS  ·  PostgreSQL  ·  Redis
-```
 
 ---
 
-**Coding activity**
+## Engineering Mindset
+
+I care about building systems that are:
+
+- Reliable under real-world constraints  
+- Measurable instead of assumed  
+- Maintainable over clever  
+- Designed with strong software fundamentals  
+- Useful beyond prototypes  
+
+---
+
+## Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-**Contribution graph**
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 ---
 
-**Writing**
+## GitHub Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SreeTatikonda&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide=issues"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeTatikonda&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SreeTatikonda&theme=flat&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## Writing
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 
 **Find me**
 

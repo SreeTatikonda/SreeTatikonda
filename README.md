@@ -27,13 +27,13 @@ My focus is retrieval, language models, and the backend infrastructure that make
 ## Technical Stack
 
 ```text
-Languages        Python · Java · TypeScript · C# · Go
-AI / ML          PyTorch · Hugging Face · LangChain · Ollama · ChromaDB · Pinecone
-Backend          FastAPI · ASP.NET · Spring Boot · GraphQL · REST APIs
-Frontend         React · Next.js · React Native
-Infrastructure   Docker · AWS · PostgreSQL · Redis · GitHub Actions
+Languages        Python · TypeScript · C# · Java
+LLMs & APIs      OpenAI API · Azure OpenAI · Hugging Face · Ollama
+Agentic & RAG    LangChain · LangGraph · ChromaDB · Pinecone · Azure AI Search
+Evaluation        RAGAS · LangSmith · Weights & Biases
+Backend          FastAPI · ASP.NET · Spring Boot · REST APIs
+Cloud & Infra    Azure AI Studio · AWS · Docker · PostgreSQL · GitHub Actions
 ```
-
 ***
 
 ## What's Next on My Workbench

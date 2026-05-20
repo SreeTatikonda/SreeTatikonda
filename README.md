@@ -15,11 +15,11 @@ My focus is retrieval, language models, and the backend infrastructure that make
 
 ## What I Build
 
-- 🔷 Designed a **RAG pipeline** that achieved **98% grounded responses** across thousands of real queries — built with LangChain, Pinecone, and ChromaDB
-- 🔷 Engineered a **multi-engine document parsing system** handling **50,000+ daily requests** with fault-tolerant OCR across two providers
-- 🔷 Fine-tuned **GPT models on domain-specific corpora** for structured schema standardization — reduced manual correction overhead significantly
-- 🔷 Built a **semantic recommendation engine** that cut attribute mismatch errors by aligning product embeddings with user intent signals
-- 🔷 Developed an **AI tutoring application** with instructor-aligned retrieval and local LLM inference using Llama and FastAPI
+-  Designed a **RAG pipeline** that achieved **98% grounded responses** across thousands of real queries — built with LangChain, Pinecone, and ChromaDB
+- Engineered a **multi-engine document parsing system** handling **50,000+ daily requests** with fault-tolerant OCR across two providers
+-  Fine-tuned **GPT models on domain-specific corpora** for structured schema standardization — reduced manual correction overhead significantly
+-  Built a **semantic recommendation engine** that cut attribute mismatch errors by aligning product embeddings with user intent signals
+- Developed an **AI tutoring application** with instructor-aligned retrieval and local LLM inference using Llama and FastAPI
 
 ***
 

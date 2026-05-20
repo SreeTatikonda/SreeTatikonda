@@ -7,11 +7,6 @@
 I build AI systems that hold up when real users hit them — at scale, under constraints, with measurable outcomes.  
 My focus is retrieval, language models, and the backend infrastructure that makes them reliable at scale.
 
-[
-[
-[
-[
-
 
 
 </div>
@@ -28,17 +23,6 @@ My focus is retrieval, language models, and the backend infrastructure that make
 
 ***
 
-## Featured Projects
-
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **RAG Pipeline** | Retrieval system with 98% grounded responses across live queries | LangChain · Pinecone · FastAPI | [→ Repo](#) |
-| **Document Parsing Engine** | Processes 50K+ daily document requests with multi-engine OCR fallback | Python · Azure OCR · NLP | [→ Repo](#) |
-| **AI Tutor App** | Instructor-aligned retrieval using local LLMs with low-latency response | Llama · FastAPI · ChromaDB | [→ Repo](#) |
-
-> Replace `[→ Repo](#)` links with actual repo URLs
-
-***
 
 ## Technical Stack
 

@@ -70,3 +70,9 @@ Infrastructure   Docker · AWS · PostgreSQL · Redis · GitHub Actions
 <img src="https://github-profile-trophy.vercel.app/?username=SreeTatikonda&theme=flat&no-frame=true&row=1&column=6"/>
 
 </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatikondayasaswini/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yasaswinitatikonda.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yasaswinitatikonda1)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://yasaswinitatikonda.substack.com/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasaswinitatikonda1@gmail.com)
+[![Google](https://img.shields.io/badge/Google%20Me-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.google.com/search?q=Yasaswini+Tatikonda)

@@ -66,7 +66,7 @@ ML & Data         PyTorch · TensorFlow · Transformers · Pandas · NumPy
 - **LLM evaluation** for groundedness, retrieval quality, and regression testing
 - **Recommendation system design** across candidate generation, ranking, and feedback loops
 - **High-throughput backend systems** and scalable inference infrastructure
-- **Go for backend and distributed systems engineering**
+- **Backend and distributed systems engineering**
 
 ---
 

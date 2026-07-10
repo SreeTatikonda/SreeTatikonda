@@ -2,84 +2,96 @@
 
 # Yasaswini Tatikonda
 
-### AI Engineer · Agentic AI · LLM Systems · Tool Calling · Backend Infrastructure
+### AI Engineer · Agentic AI · MLOps · Backend Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tool_Calling-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MCP-121212?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-I build AI systems that move beyond model calls into **reasoning, retrieval, tool use, evaluation, and production backend infrastructure**.
+I build production AI systems that combine **LLMs, agentic workflows, retrieval, and backend engineering** to solve real-world problems.
 
-My work spans **agentic workflows, RAG systems, document intelligence, recommendation systems, and scalable APIs** designed for real-world constraints.
+My interests span **Agentic AI, tool calling, recommendation systems, document intelligence, AI evaluation, and scalable AI deployment**.
 
 </div>
 
 ---
 
-## Engineering Focus
+## About
 
-- **Agentic AI systems** with planning, memory, tool calling, and workflow execution
-- **Tool-calling architectures** connecting LLMs with APIs, databases, and enterprise systems
-- **Retrieval systems** using vector search, reranking, grounding, and evaluation
-- **Document intelligence pipelines** handling OCR, layout-aware extraction, and schema generation
-- **Recommendation systems** using semantic retrieval, ranking, and user intent signals
-- **Backend infrastructure** for inference, automation, observability, and scalable APIs
+I'm an AI Engineer passionate about building intelligent systems beyond model inference.
+
+My work focuses on designing production AI applications where reasoning, retrieval, structured tool calling, backend engineering, and evaluation work together to deliver reliable systems. I enjoy solving engineering problems across the entire AI lifecycle, from data pipelines and model integration to deployment, observability, and continuous evaluation.
 
 ---
 
-## Production Experience
+## Engineering Experience
 
-- Built **RAG systems** achieving **98% grounded responses** with retrieval, reranking, and citation-aware generation
-- Engineered **document intelligence systems** processing **50,000+ documents/day** using OCR and structured parsing
-- Developed **agentic AI workflows** using **LangGraph**, tool calling, and stateful execution
-- Designed **semantic recommendation systems** using embeddings, similarity search, and ranking pipelines
-- Built **FastAPI inference services** supporting AI automation workflows and backend integrations
-- Worked on **LLM evaluation pipelines** for retrieval quality, groundedness, and response reliability
+* Engineered an **OCR-driven document intelligence pipeline** processing **50,000+ documents/day**, integrating layout-aware extraction, entity recognition, schema normalization, confidence scoring, and validation to automate enterprise document workflows.
+
+* Designed and deployed **retrieval-augmented generation (RAG) systems** achieving **98% grounded responses** through hybrid retrieval, embedding search, reranking, citation grounding, and retrieval quality evaluation.
+
+* Developed **production AI inference services** using **FastAPI**, asynchronous processing, REST APIs, and containerized deployment to support scalable enterprise AI applications and automation workflows.
+
+* Architected **semantic recommendation pipelines** spanning **ETL, feature engineering, embedding generation, candidate retrieval, ranking, and online inference**, enabling personalized recommendation and retrieval experiences.
+
+* Built **LLM evaluation and observability pipelines** for groundedness, retrieval quality, regression testing, and response reliability, enabling continuous validation of production AI systems.
+
+* Developing **agentic AI systems** using **LangGraph**, structured tool calling, Model Context Protocol (MCP), workflow state management, memory, and multi-agent orchestration for autonomous task execution.
 
 ---
 
-## Technical Stack
+## Areas of Interest
+
+* Agentic AI
+* Model Context Protocol (MCP)
+* Tool Calling & Workflow Orchestration
+* Retrieval-Augmented Generation (RAG)
+* Recommendation Systems
+* LLM Evaluation & Observability
+* MLOps
+* Backend Engineering
+* AI Infrastructure
+
+---
+
+## Technology Stack
 
 ```text
-Languages         Python · TypeScript · C# · Java · SQL
-LLMs & APIs       OpenAI API · Azure OpenAI · Claude · Gemini · Hugging Face · Ollama
-Agents            LangGraph · LangChain · Tool Calling · MCP · AutoGen
+Languages         Python · TypeScript · Java · C# · SQL
+
+AI & LLMs         OpenAI · Azure OpenAI · Claude · Gemini · Hugging Face · Ollama
+
+Agent Frameworks  LangGraph · LangChain · MCP · AutoGen
+
 Retrieval         ChromaDB · Pinecone · FAISS · Azure AI Search · Rerankers
-Evaluation        RAGAS · LangSmith · Weights & Biases
-Backend           FastAPI · ASP.NET · Spring Boot · Async APIs · REST APIs
-Cloud & Infra     AWS · Azure · Docker · Kubernetes · PostgreSQL · GitHub Actions
-ML & Data         PyTorch · TensorFlow · Transformers · Pandas · NumPy
+
+Backend           FastAPI · ASP.NET · Spring Boot · REST APIs · Async Processing
+
+Cloud & MLOps     AWS · Azure · Docker · Kubernetes · GitHub Actions
+
+Evaluation        LangSmith · RAGAS · Weights & Biases
+
+Machine Learning  PyTorch · TensorFlow · Transformers · Scikit-learn
+
+Data Engineering  Pandas · NumPy · PostgreSQL · SQL Server · MySQL · Redis
 ```
 
 ---
 
-## Current Technical Focus
+## Currently Building
 
-- **Agentic AI systems** with state, memory, and tool execution
-- **Model Context Protocol (MCP)** and external tool integrations
-- **LLM evaluation** for groundedness, retrieval quality, and regression testing
-- **Recommendation system design** across candidate generation, ranking, and feedback loops
-- **High-throughput backend systems** and scalable inference infrastructure
-- **Backend and distributed systems engineering**
-
----
-
-## Selected Projects
-
-| Project | What it demonstrates |
-|---|---|
-| **AI Tutor** | Production RAG, grounded retrieval, citation-aware responses |
-| **Document Intelligence Pipeline** | OCR, layout extraction, schema parsing, high-volume automation |
-| **Financial Planning Agent** | Multi-tool LLM workflow with structured reasoning |
-| **Recommendation Engine** | Semantic retrieval, ranking, and personalization |
-| **Fraud Detection API** | ML inference, backend APIs, low-latency serving |
-| **LLM Evaluation Framework** | Retrieval evaluation, regression checks, output quality tracking |
+* Agentic AI systems with planning, memory, and tool execution
+* Model Context Protocol (MCP) integrations
+* Structured tool-calling workflows
+* Multi-agent orchestration
+* Recommendation systems
+* LLM evaluation and regression testing
+* Production AI deployment and observability
 
 ---
 
@@ -103,13 +115,13 @@ ML & Data         PyTorch · TensorFlow · Transformers · Pandas · NumPy
 
 ---
 
-## Contribution Heatmap
+## Contribution Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution heatmap" src="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/SreeTatikonda/SreeTatikonda/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
@@ -119,14 +131,14 @@ ML & Data         PyTorch · TensorFlow · Transformers · Pandas · NumPy
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatikondayasaswini/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://yasaswinitatikonda.netlify.app/)
-[![Medium](https://img.shields.io/badge/Medium-111111?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yasaswinitatikonda1)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://yasaswinitatikonda.substack.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasaswinitatikonda1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tatikondayasaswini/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://yasaswinitatikonda.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-111111?style=flat-square\&logo=medium\&logoColor=white)](https://medium.com/@yasaswinitatikonda1)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square\&logo=substack\&logoColor=white)](https://yasaswinitatikonda.substack.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:yasaswinitatikonda1@gmail.com)
 
 <br><br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SreeTatikonda.SreeTatikonda&left_color=black&right_color=grey&left_text=visitors)
+![](https://komarev.com/ghpvc/?username=SreeTatikonda\&style=flat-square)
 
 </div>

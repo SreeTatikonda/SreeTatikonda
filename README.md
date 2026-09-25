@@ -22,8 +22,7 @@ My interests span **Agentic AI, tool calling, recommendation systems, document i
 ---
 
 ## About
-
-I'm an AI Engineer passionate about building intelligent systems beyond model inference.
+AI Engineer passionate about building intelligent systems beyond model inference.
 
 My work focuses on designing production AI applications where reasoning, retrieval, structured tool calling, backend engineering, and evaluation work together to deliver reliable systems. I enjoy solving engineering problems across the entire AI lifecycle, from data pipelines and model integration to deployment, observability, and continuous evaluation.
 
